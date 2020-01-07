@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(204): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(214): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(24): warning C4101: 's7': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(30): warning C4101: 'array': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(24): warning C4101: 's8': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(27): warning C4101: 'st3': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(29): warning C4101: 'st1': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(25): warning C4101: 'st4': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(24): warning C4101: 's3': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(24): warning C4101: 's4': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(301): warning C4101: 'ni': unreferenced local variable
+c:\users\kotzir\desktop\kraoutsouk\kraoutsouk\kraoutsouk\main.cpp(334): warning C4101: 'ni': unreferenced local variable
+  kraoutsouk.vcxproj -> C:\Users\Kotzir\Desktop\kraoutsouk\kraoutsouk\x64\Debug\kraoutsouk.exe
