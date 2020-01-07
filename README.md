@@ -1,2 +1,5 @@
 # Krawtchouk-Moments-MPI
-Parallel MPI  reconstructed picture in C++
+Parallel MPI Calculation of torques Krawtchouk and reconstructed picture in C++ with Visual Studio.
+
+
+
